@@ -1,0 +1,5 @@
+Iparun yung server.py muna bago yung client.py
+
+Kapag gagamitin open lang browser then
+Type "localhost:8080"
+walang lalabas sa browser, kasi python lang yan 
